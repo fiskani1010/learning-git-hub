@@ -9,3 +9,4 @@ This change was made directly on GitHub.
 I am learning git stash.
 Version 1.1 introduces a new improvement.
 I am learning professional Git branching.
+improve the document 
