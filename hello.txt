@@ -7,4 +7,4 @@ This line was created on main.
 This line was created on feature.
 This change was made directly on GitHub.
 I am learning git stash.
-
+Version 1.1 introduces a new improvement.
